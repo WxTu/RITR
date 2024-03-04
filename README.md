@@ -1,6 +1,8 @@
 # RITR
 IEEE TNNLS 2024-Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network
 
+The complete source code will be released soon!
+
 ## Citation & License
 If you use this code for your research, please cite our paper.
 ```
